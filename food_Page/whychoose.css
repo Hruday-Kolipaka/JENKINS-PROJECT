@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wcu-section {
+    background-color: #f9fbfe;
+  }
+  .wcu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight:800;
+  }
+  .wcu-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .wcu-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    /* box-shadow: 2px 2px 10px 2px pink; */
+  }
+  .wcu-card-image {
+    width: 87px;
+    height: 90px;
+  }
+  .wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+  }
+  .wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  
+  
+  .offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+  }

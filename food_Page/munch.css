@@ -1,0 +1,97 @@
+.food-munch-logo{
+height: 60px;
+width: 60px;
+}
+#nav-a-1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #323f4b;
+    font-weight: bold;
+}
+#nav-a-2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #323f4b;
+}
+#nav-a-3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #323f4b;
+}
+#nav-a-4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #323f4b;
+}
+/* --------------------------------------------------------------- */
+
+.banner-bg-image{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png');
+    height: 100vh;
+    background-size: cover;
+    
+}
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+  }
+  .banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 12px;
+  }
+  .custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid ;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  /* ------------------------------------- */
+  .followUs-section{
+    background-color: #faf7e8;
+  }
+  .icons{
+    
+  
+    padding: 5px;
+    color: #d0b200;
+
+    /* background-color:skyblue; */
+    
+  }
+
+  .icon-head{
+    background-color: #f8eba9;
+    padding: 15px;
+    border-radius: 50%;
+    
+    
+  }
+  .follow{
+    font-size: 42px;
+    font-weight: bold;
+  }
+/* -------------------------------------------- */
+.footer-img{
+  width: 80px;
+  height: 80px;
+}
+.mail-info{
+  color: #d0b200;
+}
+a:hover{
+  text-decoration: none;
+}
